@@ -1,0 +1,56 @@
+[33mcommit 1b4caa282b3517c6db84759fb29d7d36c125f6f0[m[33m ([m[1;36mHEAD[m[33m -> [m[1;32mmain[m[33m, [m[1;31morigin/main[m[33m)[m
+Merge: 2c7374a afd2f64
+Author: Manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sun Jan 14 06:32:02 2024 +0530
+
+    Merge pull request #1 from saimanojmatta/feature-a
+    
+    util.js with todo
+
+[33mcommit afd2f642ed8cad41f02beedfb5c2755f88ddea5c[m[33m ([m[1;31morigin/feature-a[m[33m, [m[1;32mfeature-a[m[33m)[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sun Jan 14 05:56:08 2024 +0530
+
+    util.js with todo
+
+[33mcommit 2c7374ae149f635eb244f06db74dcb8dcf8aa5a3[m[33m ([m[1;31morigin/third[m[33m)[m
+Author: Manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 17:31:52 2024 +0530
+
+    change to es6fucntions
+
+[33mcommit 1dd8d2016c9c0f7169fcab4290409ace67831c39[m
+Author: Manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 17:23:38 2024 +0530
+
+    Create README.md
+
+[33mcommit 3fe47f61b1f315199afb744dfef39c5b9a59fa32[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 17:05:13 2024 +0530
+
+    arrow function inserted into script.js
+
+[33mcommit a0e6e2a666e96c350eaff808a86adaecb76fffc3[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 16:50:25 2024 +0530
+
+    rename bodybuilder{} in the main.css
+
+[33mcommit 01b1a0980c710e3786064dbf6ee15fdb6d3d8ef9[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 16:15:51 2024 +0530
+
+    added body{} in the main.css
+
+[33mcommit 1d417fa9ef3969cdacaea8d92b31f1f38181d94c[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 16:09:51 2024 +0530
+
+    added console.log
+
+[33mcommit 09322d1bf273b7628038afbca1b85b9ccaa29b32[m
+Author: manoj <142380042+saimanojmatta@users.noreply.github.com>
+Date:   Sat Jan 13 15:52:12 2024 +0530
+
+    bootstap project
